@@ -1,0 +1,17 @@
+@media screen and (min-width:992px){
+    .my-footer_h{height:25rem;}
+    .my-header_h{height:6rem;}
+
+}@media screen and (max-width:991px){
+    .my-footer_h{height:40rem;}
+    .my-header_h{height:12rem;}
+}
+
+.btn-search{
+    border-radius: 2rem;
+}
+
+.btn1{
+    background: black;
+    color:white;
+}
